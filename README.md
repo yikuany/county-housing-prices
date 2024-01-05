@@ -1,5 +1,5 @@
 # Geographic Clustering Analysis of the Impact of COVID-19 Pandemic on Housing Prices in the United States
-The study employs Moran’s I statistic and Local Indicators of Spatial Association (LISA) to analyze spatial patterns and dependencies in housing prices across U.S. counties, offering insights into pandemic-induced shifts in the real estate market.
+The study employs Moran’s I statistic and Local Indicators of Spatial Association (LISA) to analyze spatial patterns and dependencies in housing prices across U.S. counties. It aims to understand how the pandemic affected housing prices in different regions in the U.S. and try to offer insights into pandemic-induced shifts in the real estate market.
 ### Data Cleaning and Visualization:
 Processed housing data covering 3,005 U.S. counties using Excel for data preparation. Utilized Python libraries such as GeoPandas and Matplotlib to create Choropleth maps showing the average annual housing prices and price growth rates in each county, highlighting spatial clustering phenomena in U.S. housing prices.
 
